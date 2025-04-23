@@ -1,0 +1,11 @@
+Michael Kerrisk has not only written a great book about Linux programming
+ and how it relates to various standards, but has also taken care that bugs he
+ noticed got fixed and the man pages were (greatly) improved. In all three
+ ways, he has made Linux programming easier. The in-depth treatment of
+ topics in The Linux Programming Interface . . . makes it a must-have reference
+ for both new and experienced Linux programmers.
+
+
+
+When a file is opened with the O_APPEND flag, the operating system ensures that all
+ write operations append data to the end of the file, regardless of the current file offset.
